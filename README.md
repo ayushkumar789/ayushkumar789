@@ -6,7 +6,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ayushkumar789&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164661528%3Fu%3D87e28e22e212761910849efe06e45e8ca6b89132%26v%3D4&variant=living-identity&label=Ayush%20Kumar%20Panigrahi&v=wow-living-identity-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/hero?username=ayushkumar789&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164661528%3Fu%3D87e28e22e212761910849efe06e45e8ca6b89132%26v%3D4&variant=living-identity&label=Ayush%20Kumar%20Panigrahi&v=wow-living-identity-1&mode=dark" width="100%" alt="Ayush Kumar Panigrahi animated Living Identity portrait and ASCII name" />
 </picture>
-<p><strong>Frontend or full-stack engineer</strong> · Hyderabad</p>
+<p><strong>Full-stack engineer</strong> · Hyderabad</p>
 <p>Full Stack Dev | A.I lover | Technological Blood</p>
 <p><a href="https://github.com/ayushkumar789">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/AyushKumar28970">X</a></p>
 </div>
