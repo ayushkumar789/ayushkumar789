@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><sub>WOW PROFILE · AYUSHKUMAR789 · LIVE</sub></p>
+
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ayushkumar789&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F164661528%3Fu%3D87e28e22e212761910849efe06e45e8ca6b89132%26v%3D4&variant=living-identity&label=Ayush%20Kumar%20Panigrahi&v=wow-living-identity-1&mode=light" />
